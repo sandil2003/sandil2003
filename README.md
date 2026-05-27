@@ -1,11 +1,6 @@
-# Sandil Perera
+# Sandil Helitha Perera
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=8A8A8A&width=500&lines=Intelligent+Systems+%26+High-Performance+Architecture;Multi-Agent+Workflows+%26+Backend+Engineering;Parallel+Computing+%26+System+Optimization" alt="Typing SVG" /></a>
-
----
-
-### 👤 Profile
-I am a Computer Science undergraduate focused on the intersection of advanced backend engineering, multi-agent AI coordination, and high-performance computing. My approach prioritizes clean engineering, architectural clarity, and optimizing systems for maximum resource efficiency.
+![Specializations](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=1&pause=0&color=1A365D&width=600&lines=Intelligent+Systems+•+High-Performance+Computing+•+Backend+Architecture)
 
 ---
 
@@ -19,19 +14,19 @@ I am a Computer Science undergraduate focused on the intersection of advanced ba
 ### 🛠️ Technical Ecosystem
 
 <!-- Uniform, low-contrast monochromatic badges for a sleek UI look -->
-📦 **Languages**  
-![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-121212?style=flat-square&logo=openjdk&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C%2B%2B-121212?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-121212?style=flat-square&logo=c&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/SQL-121212?style=flat-square&logo=databricks&logoColor=ffffff)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
 
-⚡ **Frameworks & Tools**  
-![FastAPI](https://img.shields.io/badge/FastAPI-121212?style=flat-square&logo=fastapi&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/Next.js-121212?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-121212?style=flat-square&logo=springboot&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-121212?style=flat-square&logo=docker&logoColor=ffffff)
+**Frameworks & Tools**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=flat-square&logo=nextdotjs&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
