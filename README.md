@@ -1,7 +1,9 @@
 <h1 align="center">Sandil Helitha Perera</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=1&pause=0&color=1A365D&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%E2%80%A2+Machine+Learning+Engineer+%E2%80%A2+Project+Manager" alt="Roles" />
+  <svg width="750" height="30" viewBox="0 0 750 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="20" fill="#1A365D" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="500" font-size="20" text-anchor="middle">Full-Stack Developer • Machine Learning Engineer • Project Manager</text>
+  </svg>
 </p>
 
 ---
@@ -12,7 +14,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:langchain.svg" alt="LangChain" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="45" height="45" />
 </p>
 
 ---
