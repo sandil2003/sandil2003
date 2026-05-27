@@ -1,10 +1,6 @@
 <h1 align="center">Sandil Helitha Perera</h1>
 
-<p align="center">
-  <svg width="750" height="30" viewBox="0 0 750 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="20" fill="#1A365D" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="500" font-size="20" text-anchor="middle">Full-Stack Developer • Machine Learning Engineer • Project Manager</text>
-  </svg>
-</p>
+<h3 align="center"><em>Full-Stack Developer &bull; Machine Learning Engineer &bull; Project Manager</em></h3>
 
 ---
 
@@ -15,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:langchain.svg" alt="LangChain" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="45" height="45" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="45" height="45" />
 </p>
 
