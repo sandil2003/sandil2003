@@ -2,10 +2,10 @@
 
 # Sandil Helitha Perera
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1200&color=0969DA&center=true&vCenter=true&width=580&lines=Full-Stack+Developer+%E2%80%A2+Machine+Learning+Engineer;Building+Autonomous+Agents+%26+Distributed+Systems;Researching+PEFT+%26+AdaLoRA+Optimization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=0969DA&center=true&vCenter=true&width=620&lines=Building+Autonomous+Agents+%26+Distributed+Systems;Researching+PEFT+%26+AdaLoRA+for+Imbalanced+Data;Full-Stack+Architectures+%E2%80%A2+FastAPI+%E2%80%A2+Next.js+%E2%80%A2+Spring+Boot)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sandil-helitha-perera-19b651271" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sandilperera2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -13,13 +13,13 @@
 
 ---
 
-### ✦ About
+### ✦ Overview
 
-I am a **Software Engineer & Machine Learning Practitioner** focused on bridging scalable backend engineering with intelligent, agentic systems. My work centers on distributed systems, conversational AI architecture, and predictive modeling for real-world impact.
+I am a **Software Engineer & Machine Learning Practitioner** specializing in high-throughput distributed systems, autonomous agent workflows, and parameter-efficient model optimization.
 
-- 🔭 **Current Focus:** Agentic multi-turn workflows, low-latency streaming architectures, and distributed services.
-- 🔬 **Research:** Parameter-efficient fine-tuning (PEFT / AdaLoRA) optimization for imbalanced classification tasks.
-- ⚙️ **Stack:** Python, TypeScript, C++, FastAPI, Next.js, Spring Boot, and cloud-native databases.
+- 🔭 **Active Engineering:** Agentic state orchestration, low-latency Server-Sent Events (SSE) streaming pipelines, and fault-tolerant backends.
+- 🔬 **Research Focus:** Investigating Parameter-Efficient Fine-Tuning (PEFT) and adapting AdaLoRA architectures for skewed, class-imbalanced datasets.
+- 💬 **Get in touch:** Reach out directly at [sandilperera2003@gmail.com](mailto:sandilperera2003@gmail.com).
 
 ---
 
@@ -30,11 +30,11 @@ I am a **Software Engineer & Machine Learning Practitioner** focused on bridging
     <td width="50%" valign="top">
       <h3 align="left">MOODZ</h3>
       <p><b>Agentic Mental Wellness & Conversational Intelligence Platform</b></p>
-      <p>A resilient chat platform delivering real-time empathetic interactions and context-aware journaling. Employs stateful agent workflows, long-term memory retrieval, and low-latency streaming.</p>
+      <p>A context-aware mental wellness ecosystem engineered for low-latency, empathetic multi-turn interactions and secure personal reflection loops.</p>
       <ul>
-        <li>Real-time Server-Sent Events (SSE) token streaming</li>
-        <li>LangGraph & LangChain multi-turn state orchestrations</li>
-        <li>Pinecone vector store for RAG with Redis memory caching</li>
+        <li>Real-time token streaming using Server-Sent Events (SSE)</li>
+        <li>Stateful multi-agent workflows orchestrated with LangGraph & LangChain</li>
+        <li>Vector search via Pinecone integrated with sub-millisecond Redis memory caches</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -44,17 +44,17 @@ I am a **Software Engineer & Machine Learning Practitioner** focused on bridging
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       </p>
       <p>
-        <a href="https://github.com/sandil2003/MOODZ"><b>View Repository →</b></a>
+        <a href="https://github.com/sandil2003/moodz"><b>Inspect Architecture →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">Churnz</h3>
-      <p><b>Predictive Customer Churn & Retention Analytics Platform</b></p>
-      <p>An end-to-end machine learning system built for e-commerce platforms to detect customer departure risks early and provide explainable retention insights for decision makers.</p>
+      <p><b>Predictive Customer Churn & Retention Analytics Engine</b></p>
+      <p>An end-to-end predictive machine learning pipeline designed for e-commerce platforms to identify customer drop-off risks early and compute retention signals.</p>
       <ul>
-        <li>Automated data ingestion and feature-engineering pipeline</li>
-        <li>Tuned XGBoost classifier optimized for high recall on churners</li>
-        <li>FastAPI inference service paired with an interactive merchant dashboard</li>
+        <li>Automated feature extraction and class-weighted preprocessing pipeline</li>
+        <li>Hyperparameter-tuned XGBoost model prioritized for high recall on churn risks</li>
+        <li>FastAPI microservice serving real-time inference to a merchant UI</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -64,7 +64,7 @@ I am a **Software Engineer & Machine Learning Practitioner** focused on bridging
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
       <p>
-        <a href="https://github.com/sandil2003/Churnz"><b>View Repository →</b></a>
+        <a href="https://github.com/sandil2003/churnz"><b>Inspect Architecture →</b></a>
       </p>
     </td>
   </tr>
@@ -72,7 +72,7 @@ I am a **Software Engineer & Machine Learning Practitioner** focused on bridging
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🛠️ Technical Stack
 
 <div align="left">
 
@@ -81,9 +81,10 @@ I am a **Software Engineer & Machine Learning Practitioner** focused on bridging
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
 <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
 
-#### Frameworks & Libraries
+#### Frameworks & Core Libraries
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -92,7 +93,7 @@ I am a **Software Engineer & Machine Learning Practitioner** focused on bridging
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
 <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=scikitlearn&logoColor=white" alt="XGBoost" />
 
-#### Infrastructure, Data & Tooling
+#### Infrastructure, Databases & Cloud
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
@@ -104,11 +105,17 @@ I am a **Software Engineer & Machine Learning Practitioner** focused on bridging
 
 ---
 
-### 🔬 Academic & Research Focus
+### 📊 Activity & Analytics
 
-- **Autonomous Agent Systems:** Designing goal-directed, self-correcting multi-agent networks that orchestrate complex multi-step reasoning workflows.
-- **Parameter-Efficient Fine-Tuning (PEFT):** Exploring Low-Rank Adaptation (AdaLoRA) techniques to preserve representations across highly imbalanced classification datasets.
-- **High-Throughput Distributed Backends:** Implementing fault-tolerant, streaming-first API patterns and cache hierarchies for data-intensive applications.
+<div align="center">
+  <a href="https://github.com/sandil2003">
+    <img src="https://github-readme-stats.vercel.app/api?username=sandil2003&show_icons=true&count_private=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff&border_color=d0d7de&hide_border=false" alt="GitHub Stats" height="165" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sandil2003">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandil2003&layout=compact&title_color=0969da&text_color=24292f&bg_color=ffffff&border_color=d0d7de&hide_border=false" alt="Top Languages" height="165" />
+  </a>
+</div>
 
 ---
 
