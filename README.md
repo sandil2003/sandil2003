@@ -113,5 +113,4 @@ I am a **Software Engineer & Machine Learning Practitioner** focused on bridging
 ---
 
 <div align="center">
-  <sub>Designed with a clean, minimal aesthetic. Powered by GitHub Markdown.</sub>
 </div>
