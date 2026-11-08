@@ -23,7 +23,7 @@ I am a **Software Engineer & Machine Learning Practitioner** specializing in hig
 
 ---
 
-### 🚀 Featured Systems
+### Featured Projects
 
 <table>
   <tr>
@@ -72,7 +72,7 @@ I am a **Software Engineer & Machine Learning Practitioner** specializing in hig
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 <div align="left">
 
@@ -101,20 +101,6 @@ I am a **Software Engineer & Machine Learning Practitioner** specializing in hig
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
-</div>
-
----
-
-### 📊 Activity & Analytics
-
-<div align="center">
-  <a href="https://github.com/sandil2003">
-    <img src="https://github-readme-stats.vercel.app/api?username=sandil2003&show_icons=true&count_private=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff&border_color=d0d7de&hide_border=false" alt="GitHub Stats" height="165" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sandil2003">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandil2003&layout=compact&title_color=0969da&text_color=24292f&bg_color=ffffff&border_color=d0d7de&hide_border=false" alt="Top Languages" height="165" />
-  </a>
 </div>
 
 ---
